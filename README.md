@@ -14,7 +14,7 @@ This is an example [Breach][] module that displays a new tab page.
 
 ## Install
 
-Open [breach://modules][modules]
+Open `breach://modules`
 
 In the *Install Modules* input:
 
