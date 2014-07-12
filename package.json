@@ -7,7 +7,8 @@
     "express": "~4.3.2",
     "socket.io": "~1.0.6",
     "consolidate": "~0.10.0",
-    "swig": "~1.4.1"
+    "swig": "~1.4.1",
+    "debug": "~1.0.3"
   },
   "devDependencies": {
     "gulp": "~3.8.6",
